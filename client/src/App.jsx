@@ -9,7 +9,7 @@ class App extends React.Component {
     super(props)
 
     this.state = {
-      productId: 14038
+      productId: 14067
     }
     this.viewNewProduct = this.viewNewProduct.bind(this);
   }
