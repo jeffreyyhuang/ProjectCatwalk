@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/css--loader-v5.0.2-blue">
 </p>
 <p align="center">
-  <img src="https://github.com/jeffreyyhuang/ProjectCatwalk/blob/main/FEC3.gif" align="center" width="800">
+  <img src="https://github.com/jeffreyyhuang/ProjectCatwalk/blob/main/FEC.gif" align="center" width="800">
 </p>
 
 ### Overview
